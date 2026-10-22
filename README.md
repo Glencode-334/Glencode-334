@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Krrish Agarwal 👋
 
-<!--
-**Glencode-334/Glencode-334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE undergraduate at **NIT Raipur (2027)**. I build full-stack web products with **React, Next.js, TypeScript and Node.js**, and I'm looking for **Software Developer (fresher) roles at product companies** in Bangalore, Hyderabad, Pune, Gurugram and NCR.
 
-Here are some ideas to get you started:
+- 🏆 Winner, **Innovate 2025 Hackathon** (MANIT Bhopal) – KrishiHub, an AI + IoT smart-agriculture assistant
+- 💼 AI Full Stack Developer Intern at **The AI Signal** (Jun–Sep 2026): Next.js, React, TypeScript, Hono, Prisma
+- 🧩 Practice on LeetCode, Codeforces and CodeChef; coursework in DSA, OS, OOP and DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+| Project | What it is | Links |
+|---|---|---|
+| **TalentDash** | Salary intelligence and company insights platform with URL-synced filters, search and pagination | [Live](https://talentdash-trial-rose.vercel.app/) · [Code](https://github.com/Glencode-334/talentdash-trial) |
+| **Atlas Intelligence** | AI market-analysis dashboard for startups, investors and funding activity | [Live](https://atlas-intelligence-nine.vercel.app) · [Code](https://github.com/Glencode-334/atlas-intelligence) |
+| **College Discovery Platform** | Search, compare and predict colleges | [Live](https://college-discovery-platform-delta.vercel.app) · [Code](https://github.com/Glencode-334/college-discovery-platform) |
+| **KrishiHub** | AI + IoT assistant for crop planning, disease detection and irrigation support | [Code](https://github.com/Glencode-334/IIITNayaRaipurHakathon-main) |
+
+## Tech
+
+`C/C++` `Python` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express` `PostgreSQL` `MySQL` `Tailwind CSS` `Git`
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/krrish-agarwal-b90621280/)

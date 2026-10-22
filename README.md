@@ -10,8 +10,8 @@ CSE undergraduate at **NIT Raipur (2027)**. I build full-stack web products with
 
 | Project | What it is | Links |
 |---|---|---|
-| **KrishiHub** 🏆 | AI + IoT assistant for crop planning, disease detection and irrigation support. Winner, Innovate 2025 | [Demo video](https://youtube.com/shorts/Lbkhppuiouk) · [Slides](https://drive.google.com/file/d/1m3oPIQcd-f0qBdJtkPF1WcKQbhMNGxeb/view?usp=sharing) · [Code](https://github.com/Glencode-334/IIITNayaRaipurHakathon-main) |
-| **College Discovery Platform** | Search, compare and predict colleges | [Live](https://college-discovery-platform-delta.vercel.app) · [Code](https://github.com/Glencode-334/college-discovery-platform) |
+| **KrishiHub** 🏆 | AI + IoT assistant for crop planning, disease detection and irrigation support. Winner, Innovate 2025 | [Code](https://github.com/Glencode-334/IIITNayaRaipurHakathon-main) |
+| **College Discovery Platform** | Search, compare and predict colleges | [Code](https://github.com/Glencode-334/college-discovery-platform) |
 | **TalentDash** | Salary intelligence and company insights platform with URL-synced filters, search and pagination | [Code](https://github.com/Glencode-334/talentdash-trial) |
 | **Atlas Intelligence** | AI market-analysis dashboard for startups, investors and funding activity | [Code](https://github.com/Glencode-334/atlas-intelligence) |
 
